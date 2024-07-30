@@ -1,3 +1,5 @@
+#pip install psycopg2_binary
+#pip install pandas
 import pandas as pd
 from sqlalchemy import create_engine
 import psycopg2
